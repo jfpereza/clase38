@@ -1,0 +1,7 @@
+pm2 start server.js --name="fork" --watch 
+
+pm2 start server.js --name="cluster" --watch -i max
+
+pm2 delete all
+
+pm2 stop all

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Arroz con carne de res",
+    "category": "Normal",
+    "price": "10",
+    "thumbnail": "/images/1638482610503Arro-carne-Res.jpg",
+    "available": false
+  },
+  {
+    "id": 2,
+    "name": "Arroz-carne-cerdo",
+    "category": "Especial",
+    "price": "10",
+    "thumbnail": "/images/1638506173088Arroz-carner-cerdo.jpg",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "wergvgwv",
+    "category": "Normal",
+    "price": "10",
+    "thumbnail": "/images/1639169481355js.png",
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "daniela-rechismosa",
+    "category": "Especial",
+    "price": "2",
+    "thumbnail": "/images/1639171476226daniela-chismosa.jpg",
+    "available": false
+  },
+  {
+    "id": 5,
+    "name": "prueba",
+    "category": "Normal",
+    "price": "111111",
+    "thumbnail": "/images/16623273517491639171476226daniela-chismosa.jpg",
+    "available": false
+  }
+]
